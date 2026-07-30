@@ -1,8 +1,8 @@
 # Hello there! 👋
 
 <h5 align="left">
+  <code><a href="https://mathiasnvd.com" target="_blank" title="Personal Website"><img width="15" src="images/personal_website_icon.jpg"> Personal Website</a></code>
   <code><a href="https://www.linkedin.com/in/mathiasnvd/" target="_blank" title="LinkedIn Profile"><img width="15" src="images/linkedin_icon.png"> LinkedIn</a></code>
-  <code><a href="https://matnvd.github.io" target="_blank" title="Personal Website"><img width="15" src="images/personal_website_icon.jpg"> Personal Website</a></code>
   <code><a href="mailto:mathiasnvd07@gmail.com" target="_blank" title="Email"><img width="15" src="images/gmail_icon.png"> Email Me</a></code>
 </h5>
 
