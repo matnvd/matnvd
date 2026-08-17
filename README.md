@@ -105,5 +105,4 @@
 ### Design & Tools
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
 ![Excel](https://img.shields.io/badge/excel-%23217346.svg?style=for-the-badge&logo=none&logoColor=white)
